@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [PocketMart API Documentation](README.md)
 
